@@ -1,4 +1,0 @@
-interface IFly
-{
-    string Fly();
-}
