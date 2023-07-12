@@ -1,0 +1,15 @@
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.csproj.AssemblyReference.cache
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.AssemblyInfoInputs.cache
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.AssemblyInfo.cs
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.csproj.CoreCompileInputs.cache
+D:\c#\generic\genericc\bin\Debug\net7.0\genericc.exe
+D:\c#\generic\genericc\bin\Debug\net7.0\genericc.deps.json
+D:\c#\generic\genericc\bin\Debug\net7.0\genericc.runtimeconfig.json
+D:\c#\generic\genericc\bin\Debug\net7.0\genericc.dll
+D:\c#\generic\genericc\bin\Debug\net7.0\genericc.pdb
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.dll
+D:\c#\generic\genericc\obj\Debug\net7.0\refint\genericc.dll
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.pdb
+D:\c#\generic\genericc\obj\Debug\net7.0\genericc.genruntimeconfig.cache
+D:\c#\generic\genericc\obj\Debug\net7.0\ref\genericc.dll

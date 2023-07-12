@@ -1,0 +1,15 @@
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.csproj.AssemblyReference.cache
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.AssemblyInfoInputs.cache
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.AssemblyInfo.cs
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.csproj.CoreCompileInputs.cache
+D:\c#\lesson9\ListDemo\bin\Debug\net7.0\ListDemo.exe
+D:\c#\lesson9\ListDemo\bin\Debug\net7.0\ListDemo.deps.json
+D:\c#\lesson9\ListDemo\bin\Debug\net7.0\ListDemo.runtimeconfig.json
+D:\c#\lesson9\ListDemo\bin\Debug\net7.0\ListDemo.dll
+D:\c#\lesson9\ListDemo\bin\Debug\net7.0\ListDemo.pdb
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.dll
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\refint\ListDemo.dll
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.pdb
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ListDemo.genruntimeconfig.cache
+D:\c#\lesson9\ListDemo\obj\Debug\net7.0\ref\ListDemo.dll

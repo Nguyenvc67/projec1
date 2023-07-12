@@ -1,0 +1,15 @@
+D:\c#\OOP Assignment\ManagerStuden\bin\Debug\net7.0\ManagerStuden.exe
+D:\c#\OOP Assignment\ManagerStuden\bin\Debug\net7.0\ManagerStuden.deps.json
+D:\c#\OOP Assignment\ManagerStuden\bin\Debug\net7.0\ManagerStuden.runtimeconfig.json
+D:\c#\OOP Assignment\ManagerStuden\bin\Debug\net7.0\ManagerStuden.dll
+D:\c#\OOP Assignment\ManagerStuden\bin\Debug\net7.0\ManagerStuden.pdb
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.csproj.AssemblyReference.cache
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.AssemblyInfoInputs.cache
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.AssemblyInfo.cs
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.csproj.CoreCompileInputs.cache
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.dll
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\refint\ManagerStuden.dll
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.pdb
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ManagerStuden.genruntimeconfig.cache
+D:\c#\OOP Assignment\ManagerStuden\obj\Debug\net7.0\ref\ManagerStuden.dll

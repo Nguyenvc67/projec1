@@ -1,0 +1,15 @@
+D:\c#\lesson7\Animal\bin\Debug\net7.0\Animal.exe
+D:\c#\lesson7\Animal\bin\Debug\net7.0\Animal.deps.json
+D:\c#\lesson7\Animal\bin\Debug\net7.0\Animal.runtimeconfig.json
+D:\c#\lesson7\Animal\bin\Debug\net7.0\Animal.dll
+D:\c#\lesson7\Animal\bin\Debug\net7.0\Animal.pdb
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.csproj.AssemblyReference.cache
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.AssemblyInfoInputs.cache
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.AssemblyInfo.cs
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.csproj.CoreCompileInputs.cache
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.dll
+D:\c#\lesson7\Animal\obj\Debug\net7.0\refint\Animal.dll
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.pdb
+D:\c#\lesson7\Animal\obj\Debug\net7.0\Animal.genruntimeconfig.cache
+D:\c#\lesson7\Animal\obj\Debug\net7.0\ref\Animal.dll

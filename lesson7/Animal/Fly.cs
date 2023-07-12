@@ -1,0 +1,4 @@
+interface IFly
+{
+    string Fly();
+}
